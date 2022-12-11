@@ -14,4 +14,6 @@ Recreating Printf (without handling the formatting flags and floats)<br />
 
 -Part 4 (get_next_line):<br />
 Creating a function that takes any input text (file or stdin) and read/display one line at a time, regardless of the buffer size.<br />
-*Part 4 is checked with norminette, tested and VALIDATED. :white_check_mark: :100:* <br />
+*Part 4 is checked with norminette, tested and VALIDATED. :white_check_mark: :100:* <br /><br />
+
+Run with the **make** rule to generate the *libft.a* library. :keyboard:
