@@ -70,7 +70,7 @@ REMOVE = rm -f
 all: $(NAME)
 
 $(NAME):
-		$(CC) $(FLAGS) $(HEADER) $(SRCS)
+		$(CC) $(FLAGS) $(SRCS)
 		$(AR) $(NAME) $(OBJ)
 clean:
 		$(REMOVE) $(OBJ)
