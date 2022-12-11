@@ -62,11 +62,9 @@ SRCS = ft_atoi.c\
 	get_next_line.c
 NAME = libft.a
 CC = cc -c
-HEADER = libft.h
-FLAGS = -Wextra -Wall -Werror -I
+FLAGS = -Wextra -Wall -Werror
 AR = ar rc
 OBJ = $(SRCS:.c=.o)
-BONUS_OBJ = $(BONUS:.c=.o)
 REMOVE = rm -f
 
 all: $(NAME)
@@ -74,16 +72,12 @@ all: $(NAME)
 $(NAME):
 		$(CC) $(FLAGS) $(HEADER) $(SRCS)
 		$(AR) $(NAME) $(OBJ)
-bonus:
-		$(CC) $(FLAGS) $(HEADER) $(BONUS)
-		$(AR) $(NAME) $(BONUS_OBJ)
-
 clean:
-		$(REMOVE) $(OBJ) $(BONUS_OBJ)
+		$(REMOVE) $(OBJ)
 
 fclean: clean
 		$(REMOVE) $(NAME)
 
 re:	fclean all
 
-.PHONY: all clean fclean re bonus
+.PHONY: all clean fclean re 
