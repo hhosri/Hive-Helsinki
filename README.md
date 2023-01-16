@@ -10,5 +10,5 @@ There are no teachers, lectures, or books at Hive. Instead, we learn coding toge
 
 [:green_circle:**Born2beroot**](https://github.com/hhosri/Hive-Helsinki/tree/master/Born2beroot)<br />
 
-[:green_circle:**Push_Swap**](https://github.com/hhosri/Hive-Helsinki/tree/master/Born2beroot)<br />
+[:green_circle:**Push_Swap**](https://github.com/hhosri/Hive-Helsinki/tree/master/push_swap)<br />
 
