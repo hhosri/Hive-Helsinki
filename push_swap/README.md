@@ -1,5 +1,5 @@
 # Born2beroot
-In this project we had to creat a **Sorting Algorithm** to sort a given list of random integers (No duplicates), with the least amount of operations<br />
+In this project we had to create a **Sorting Algorithm** to sort a given list of random integers (No duplicates), with the least amount of operations<br />
 
 **For this project the following restrictions apply:**<br /><br />
 -We can only use 2 Stacks for sorting<br />
@@ -16,7 +16,7 @@ In this project we had to creat a **Sorting Algorithm** to sort a given list of 
 *pb: pushes the top of stack A to the top of stack B*<br /><br />
 
 -run the **make** rule to generate the program **push_swap**<br />
--to check the amount of operations run:<br />
+-to check the amount of operations, run:<br />
 *$ARG="a set of numbers"; ./push_swap $ARG | wc -l<br />*
--to check if the program sorts properly run:<br />
+-to check if the program sorts properly, run:<br />
 *$ARG="a set of numbers"; ./push_swap $ARG | ./checker_Mac $ARG<br />*
