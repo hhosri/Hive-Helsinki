@@ -12,5 +12,5 @@ There are no teachers, lectures, or books at Hive. Instead, we learn coding toge
 
 [:green_circle:**Push_Swap**](https://github.com/hhosri/Hive-Helsinki/tree/master/push_swap) - Sorting Algorithm<br />
 
-[:green_circle:**So_long**](https://github.com/hhosri/Hive-Helsinki/tree/master/push_swap) - Low level graphics<br />
+[:green_circle:**So_long**](https://github.com/hhosri/Hive-Helsinki/tree/master/so_long) - Low level graphics<br />
 
