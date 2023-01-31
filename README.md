@@ -14,3 +14,6 @@ There are no teachers, lectures, or books at Hive. Instead, we learn coding toge
 
 [:green_circle:**So_long**](https://github.com/hhosri/Hive-Helsinki/tree/master/so_long) - Low level graphics<br />
 
+[:green_circle:**Minitalk**](https://github.com/hhosri/Hive-Helsinki/tree/master/Minitalk) - UNIX Signals<br />
+
+
