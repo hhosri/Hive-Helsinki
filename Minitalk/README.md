@@ -1,6 +1,6 @@
 # Minitalk
 In this project we got introduced to Unix **Signals**.<br />
-![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/so_long/screenshot.png) <br />
+![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minitalk/screenshot.png) <br />
 **For this project the following rules apply:**<br /><br />
 -We need to create 2 programs, Server and Client<br />
 -We server is run, it will display it's PID<br />
