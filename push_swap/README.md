@@ -1,4 +1,4 @@
-# Born2beroot
+# Push_Swap
 In this project we had to create a **Sorting Algorithm** to sort a given list of random integers (No duplicates), with the least amount of operations<br />
 
 **For this project the following restrictions apply:**<br /><br />
