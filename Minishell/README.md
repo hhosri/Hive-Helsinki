@@ -1,6 +1,7 @@
 # Minishell
+In this project we had to create a **Shell**<br /><br />
 ![minishell_screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/minishell%20screenshot.png) <br />
-In this project we had to create a **2D Maze Game** using the school's graphics library Minilibx<br />
+The following Bash-like rules/functionalities to implement:<br />
 ![1](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/1.png) <br />
 ![2](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/2.png) <br />
 
