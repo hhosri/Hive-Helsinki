@@ -17,4 +17,6 @@ There are no teachers, lectures, or books at Hive. Instead, we learn coding toge
 
 [:bee:**Minitalk**](https://github.com/hhosri/Hive-Helsinki/tree/master/Minitalk) - POSIX Signals<br />
 
+[:bee:**Minishell**](https://github.com/hhosri/Hive-Helsinki/tree/master/Minishell) - Shell/Bash<br />
+
 
