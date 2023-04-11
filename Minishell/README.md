@@ -1,6 +1,8 @@
 # So_long
 In this project we had to create a **2D Maze Game** using the school's graphics library Minilibx<br />
-![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/1.png) <br />
+![1](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/1.png) <br />
+![2](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/2.png) <br />
+![minishell_screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/minishell%20screenshot.png) <b
 **For this project the following rules apply:**<br /><br />
 -The program must be able to parse a .ber map<br />
 -The map must follow the following rules, or else an error should be returned:<br />
