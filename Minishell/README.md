@@ -1,6 +1,6 @@
 # Minishell
 <br />
-![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/minishell%20screenshot.png) <br />
+![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minitalk/screenshot.png) <br />
 In this project we had to create a **Shell** while implementing the following functionalities like in Bash:<br />
 ![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/1.png) <br />
 ![Screenshot](https://github.com/hhosri/Hive-Helsinki/blob/master/Minishell/2.png) <br />
