@@ -32,7 +32,7 @@ void	prompt_one(PhonebookClass phonebook)
 	
 	while (1)
 	{
-		std::cout<<YELLOW<<"Please choose an index to search for:"<<std::endl;
+		std::cout<<YELLOW<<"Please choose an index to search for, or press"<<RED<<" BACK "<<YELLOW<<"to go back to menu:"<<std::endl;
 		std::cout<<RESET;
 		std::getline(std::cin, input);
 		if (input == "BACK")
