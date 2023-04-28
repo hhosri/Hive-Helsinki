@@ -21,4 +21,4 @@ There are no teachers, lectures, or books at Hive. Instead, we learn coding toge
 
 [:bee:**NetPractice**](https://github.com/hhosri/Hive-Helsinki/tree/master/NetPractice) - System Administration<br />
 
-[:bee:**C++**](https://github.com/hhosri/Hive-Helsinki/tree/master/C%2B%2B) - OOP in C++<<br />
+[:bee:**C++**](https://github.com/hhosri/Hive-Helsinki/tree/master/C%2B%2B) - OOP in C++<br />
