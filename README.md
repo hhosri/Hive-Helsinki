@@ -20,5 +20,3 @@ There are no teachers, lectures, or books at Hive. Instead, we learn coding toge
 [:bee:**Minishell**](https://github.com/hhosri/Hive-Helsinki/tree/master/Minishell) - Shell/Bash<br />
 
 [:bee:**NetPractice**](https://github.com/hhosri/Hive-Helsinki/tree/master/NetPractice) - System Administration<br />
-
-[:bee:**C++**](https://github.com/hhosri/Hive-Helsinki/tree/master/Cpp) - OOP in C++<br />
