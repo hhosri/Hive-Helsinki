@@ -7,7 +7,7 @@ It's a school that preps you to launch your future-proofed career.<br />
 There are no teachers, lectures, or books at Hive. Instead, we learn coding together with other students and work on practical, real-life projects, through a gamified project based learning system.<br /><br />
 **Some of the projects at Hive:**<br />
 
-[:bee:**Libft**](https://github.com/hhosri/Hive-Helsinki/tree/master/Libft) - C Standard Library<br />
+[:bee:**Libft**](https://github.com/hhosri/Hive-Helsinki/tree/master/Libft) - Recreating some of the C Standard Library functions<br />
 
 [:bee:**Born2beroot**](https://github.com/hhosri/Hive-Helsinki/tree/master/Born2beroot) - System Administration<br />
 
