@@ -1,0 +1,29 @@
+/* XPM wood weathered plank south */
+static char *c8b5a6d795d34a4b848d4852d4a64788Y5xnKWhccj6dms5g[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5D5E5E",
+". c #707171",
+"X c #7B7C7C",
+"o c #898A8A",
+"O c #949595",
+"+ c #9FA0A0",
+"@ c #A7A8A8",
+/* pixels */
+"OO@@@@OO+++@@@+X",
+"O+++OOoooO+OO+oX",
+"oOOoooO+++OooooX",
+"     ...  .... .",
+"O@@+++OXO@@@@OO@",
+"o+++OOoXoOOO+++o",
+"OOOooooXoooooooO",
+"    ... ....    ",
+"@@++@@@@++++O@@X",
+"OoOOO++OOOoooOoX",
+"++OoooooooO++ooX",
+" .  ...      .. ",
+"OO@@@+OX@O++@@@O",
+"oOO+OOoXoOOOO+oo",
+"OooooooXoooO++Oo",
+"   ...    ..... "
+};

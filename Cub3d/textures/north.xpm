@@ -1,0 +1,29 @@
+/* XPM red wood north*/
+static char *_fa4b52592334733de9941b8314c4853jWfB2iteUaZuNO2i[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #770B11",
+". c #880D13",
+"X c #930E15",
+"o c #9E1818",
+"O c #A92420",
+"+ c #B32A24",
+"@ c #BB2F2C",
+/* pixels */
+"OO@@@@OO+++@@@+X",
+"O+++OOoooO+OO+OX",
+"oOOoooO+++OooooX",
+"     ...  .... .",
+"O@@+++OXO@@@@OO@",
+"o+++OOoXoOOO+++o",
+"OOOooooXooooooo+",
+"    ... ....    ",
+"@@++@@@@++++O@@X",
+"OoOOO++OOOooOOoX",
+"++OoooooooO++ooX",
+" .  ...      .. ",
+"OO@@@+OX@O++@@@O",
+"oOO+OOoXoOOOO+oo",
+"OooooooXoooO++Oo",
+"   ...    ..... "
+};
